@@ -39,6 +39,7 @@ An example of a user journey might be as simple as:
 - The way in which I have written the code could be reusable (for example making buttons a component so there’s not duplicated code)
 - Add validation to the names (no duplications or at least initials)
 - Maybe creating a user profile for each person and how they like their tea (kind of like a list of everyone but the person who was picked)
+- Add error handling to support empty names
 
 ## ⚒️ Project Setup
 
