@@ -1,5 +1,7 @@
 ## 🫖 The Tea Round Picker
 
+![image](https://github.com/jadetrue/tea-round-picker/blob/main/public/tea-picker-screenie.png)
+
 ### Brief
 
 The business has identified the need for a new productivity tool for company-wide use. It
@@ -33,7 +35,7 @@ An example of a user journey might be as simple as:
 - The little details that are different to using React... class instead of className / defining props in the script and the template for displaying the information
 - State management is pretty cool in VueJs
 
-## Improvements
+## ❤️‍🩹 Improvements
 
 - I’d have like to have added some additional interaction to make it less boring
 - The way in which I have written the code could be reusable (for example making buttons a component so there’s not duplicated code)
