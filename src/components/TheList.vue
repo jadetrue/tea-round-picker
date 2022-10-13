@@ -14,7 +14,7 @@ export default {
       this.names.push({ id: id++, text: this.newName });
       this.newName = "";
     },
-    removeTodo(name: any) {
+    removeTodo(name: { id: number; text: string }) {
       this.names = this.names.filter((n) => n !== name);
     },
     shuffleNames() {
