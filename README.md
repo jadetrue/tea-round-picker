@@ -30,6 +30,16 @@ An example of a user journey might be as simple as:
 
 ## ✨ What I learned
 
+- The little details that are different to using React... class instead of className / defining props in the script and the template for displaying the information
+- State management is pretty cool in VueJs
+
+## Improvements
+
+- I’d have like to have added some additional interaction to make it less boring
+- The way in which I have written the code could be reusable (for example making buttons a component so there’s not duplicated code)
+- Add validation to the names (no duplications or at least initials)
+- Maybe creating a user profile for each person and how they like their tea (kind of like a list of everyone but the person who was picked)
+
 ## ⚒️ Project Setup
 
 ```sh

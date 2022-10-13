@@ -13,6 +13,6 @@ module.exports = {
     ecmaVersion: "latest",
   },
   env: {
-    node: true
-  }
+    node: true,
+  },
 };
